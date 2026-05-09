@@ -5,7 +5,7 @@ const title = 'Smolla Marketing';
 <template>
     <main>
         <h1>{{ title }}</h1>
-        <p>Coming soon.</p>
+        <p>Coming soon to smol.la.</p>
     </main>
 </template>
 
